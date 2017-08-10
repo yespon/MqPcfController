@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.ibm.mq.allclient">
+    <CLASSES>
+      <root url="jar://D:/Program Files/IBM/MQ/java/lib/com.ibm.mq.allclient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Program Files/IBM/MQ/java/lib/com.ibm.mq.allclient.jar!/" />
+    </SOURCES>
+  </library>
+</component>
